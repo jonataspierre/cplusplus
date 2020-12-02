@@ -1,1 +1,1 @@
-# Pasta para Códigos de Estudos C++
+# Pasta para Códigos de Estudos iniciais em C++
